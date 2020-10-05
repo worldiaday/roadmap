@@ -13,21 +13,21 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 ## Release phases
 Every product or feature goes through a set of release phases, from early testing to general availability.
 
-**alpha**: Primarily for testing and feedback
+- **alpha**: Primarily for testing and feedback
 Limited availability, requires pilot agreement. Services still under heavy development, and subject to change. Not for widespread use, and no documentation or support provided.
 
-**beta**: Publicly available in full or limited capacity
+- **beta**: Publicly available in full or limited capacity
 Services mostly complete and documented. Timeline and requirements usually published. No support provided.
 
-**ga**: Generally available to all WIAD
+- **ga**: Generally available to all WIAD
 Ready for production use to all WIAD events and locations with associated and technical support obligations. 
 
 Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows:
 
-**in design**:
+- **in design**:
 Feature in discovery phase. We have decided to pursue this feature, but are still figuring out how.
 
-**exploring**:
+- **exploring**:
 Feature under consideration. We are considering pursuing this feature, and gathering feedback on it.
 
 ## Roadmap stages

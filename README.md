@@ -36,12 +36,19 @@ The roadmap is arranged on a project board to give a sense for how far out each 
 ## Feature Areas
 The following is a list of our current global committee/taskforce areas:
 
-board: global board planning and tracking tools
-education: Education, mentorship, and learning features
-security & compliance: Safety, security, and compliance 
-organizer-local: Event planning collaboration and features specific to local organizers for WIAD the event
-organizer-global: Administrative features specific to supporting local WIAD organizers
-community: Community and social features (Discord/Slack, social media) 
-research: Continuous learning, research insights projects
-website: World IA Day website
-other: Other features
+- Board: global board planning 
+  - board@worldiaday.org
+  - global@worldiaday.org
+- Education: 
+  - education, research mentorship, and learning features education@worldiaday.org
+  - research: Continuous learning, research insights projects research@worldiaday.org
+- Security & compliance: 
+  - Safety, security, and compliance 
+  safety@worldiaday.org
+- organizer
+  local: Event planning collaboration and features specific to local organizers for WIAD the event
+- community: Community and social features (Discord/Slack, social media) 
+  - socialmedia@worldiaday.org
+- website: World IA Day website
+  - website@worldiaday.org
+- other: Other features
